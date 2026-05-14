@@ -40,9 +40,13 @@ using 8 relational datasets with 100,000+ records.
   customer distribution
 
 ## Project Structure
+
+
+```
 ├── E-Commerce sales project final.ipynb  # Data analysis notebook
 ├── Ecommer powerBi.pbix                  # Power BI dashboard file
 ├── Dashboard 1                           # Sales overview screenshot
 ├── Dashboard 2                           # Customer analysis screenshot
 ├── Dashboard 3                           # Regional performance screenshot
 └── README.md                             # Project documentation
+```
